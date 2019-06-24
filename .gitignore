@@ -9,6 +9,9 @@ local.properties
 # Gradle files
 .gradle/
 
+# Signing files
+.signing/
+
 # User-specific configurations
 *.iml
 
